@@ -16,8 +16,8 @@ Video showing how Liri works in detail: [Click Here!](https://drive.google.com/o
         - ex. node liri.js movie-this Pulp Fiction
     3. your info will pop up in the terminal telling you everything you wanted to know
     4. you can also find all the music, concert, movie info that you've searched in the log.txt file in     the root directory    
-    5.  finally, if you want to know what Bowie's favorite song in the whole world is try:
-        node liri.js do-what-it-says
+    5. finally, if you want to know what Bowie's favorite song in the whole world is try:
+       node liri.js do-what-it-says
 
 ### LIRI uses multiple NPMs including:
 
