@@ -94,10 +94,10 @@ const getSong = function () {
             let album = `Album: ${data.tracks.items[0].album.name}`;
 
             console.log("\n----------------------------");
-            console.log(artists.america);
-            console.log(name.america);
-            console.log(url.america);
-            console.log(album.america);
+            console.log(artists.yellow);
+            console.log(name.yellow);
+            console.log(url.yellow);
+            console.log(album.yellow);
             console.log("----------------------------\n");
 
             fs.appendFile("log.txt", "\n" + artists + "\n" + name + "\n" + url + "\n" + album + "\n----------------------------------------------", function (err) {

@@ -100,3 +100,50 @@ Name: I Want It That Way
 URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
 Album: The Hits--Chapter One
 ----------------------------------------------
+Artists: Radiohead
+Name: Fake Plastic Trees
+URL: https://open.spotify.com/track/045sp2JToyTaaKyXkGejPy
+Album: The Bends
+----------------------------------------------
+Artists: Radiohead
+Name: Fake Plastic Trees
+URL: https://open.spotify.com/track/045sp2JToyTaaKyXkGejPy
+Album: The Bends
+----------------------------------------------
+Artists: Radiohead
+Name: Fake Plastic Trees
+URL: https://open.spotify.com/track/045sp2JToyTaaKyXkGejPy
+Album: The Bends
+----------------------------------------------
+Name: The Heavy
+Venue: La Machine du Moulin Rouge
+Date: Oct 25th 19
+----------------------------------------------
+Title: Hook
+Year: 1991
+IMDB: 6.7
+RottenTomatoes: 26%
+Country: USA
+Language: English
+Actors: Dustin Hoffman, Robin Williams, Julia Roberts, Bob Hoskins
+Plot: When Captain Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.
+----------------------------------------------
+Title: Pulp Fiction
+Year: 1994
+IMDB: 8.9
+RottenTomatoes: 92%
+Country: USA
+Language: English, Spanish, French
+Actors: Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta
+Plot: The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+----------------------------------------------
+Artists: Backstreet Boys
+Name: I Want It That Way
+URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+----------------------------------------------
+Artists: Backstreet Boys
+Name: I Want It That Way
+URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+----------------------------------------------
