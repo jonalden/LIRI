@@ -1,6 +1,10 @@
 # LIRI
 
-**LIRI** is a Language Interpretation Recognition Interface, similar to SIRI but it takes in commands from to terminal. LIRI is equipped to help you find the next concert of your favorite band and details about your favorite song or movie by entering them into the command line. :=1:
+**LIRI** is a Language Interpretation Recognition Interface, similar to SIRI but it takes in commands from to terminal. LIRI is equipped to help you find the next concert of your favorite band and details about your favorite song or movie by entering them into the command line. 
+
+Video showing in detail how Liri works: [Click Here!](https://drive.google.com/open?id=1Jam03dJYz5x2JczFaCSn5mB87ml9f1dy)
+
+    
 
 ### To begin:
 
@@ -22,6 +26,8 @@
     *colors
     *node-spotify-api
     *moment
+    
+#####Developed by Jon Alden
     
 
 
