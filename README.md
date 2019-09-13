@@ -2,7 +2,7 @@
 
 **LIRI** is a Language Interpretation Recognition Interface, similar to SIRI but it takes in commands from the terminal instead of from your voice. LIRI is currently equipped to help you find the next concert of any band and details about your favorite song or movie by entering them into the command line. 
 
-Video showing how Liri works in detail: [Click Here!](https://drive.google.com/open?id=1Jam03dJYz5x2JczFaCSn5mB87ml9f1dy)
+Video showing how Liri works in detail: [Click Here!](https://drive.google.com/file/d/1W6kakjgqb4jI_FrAfba9IhGnX6X61Lc1/view?usp=sharing)
 
     
 
