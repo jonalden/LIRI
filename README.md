@@ -28,7 +28,7 @@ Video showing how Liri works in detail: [Click Here!](https://drive.google.com/o
     *node-spotify-api
     *moment
     
-Developed by Jon Alden
+##### Developed by Jon Alden
     
 
 
