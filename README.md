@@ -34,7 +34,6 @@ Video showing how Liri works in detail: [Click Here!](https://drive.google.com/o
      *moment
      
     APIs:
-     *Spotify-node-api
      *OMDB
      *Bands in Town
     
