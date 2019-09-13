@@ -20,13 +20,22 @@ Video showing how Liri works in detail: [Click Here!](https://drive.google.com/o
     5. finally, if you want to know what Bowie's favorite song in the whole world is try:
        node liri.js do-what-it-says
 
-### LIRI uses multiple NPMs including:
+### Technologies Used:
 
-    *axios
-    *dotenv
-    *colors
-    *node-spotify-api
-    *moment
+    JavaScript
+    Node.js
+    
+    Node Modules:
+     *axios
+     *dotenv
+     *colors
+     *node-spotify-api
+     *moment
+     
+    APIs:
+     *Spotify-node-api
+     *OMDB
+     *Bands in Town
     
 ##### Developed by Jon Alden
     
