@@ -14,7 +14,9 @@ Video showing how Liri works in detail: [Click Here!](https://drive.google.com/o
         - "music-this 'song name here' " to grab details about any song
         - "concert-this 'band name here' " to grab details about the bands next concert
         - "movie-this 'movie name here' " to grab details about any movie
-        - ex. node liri.js movie-this Pulp Fiction
+        
+        - ex.    node liri.js movie-this Pulp Fiction
+        
     4. your info will pop up in the terminal telling you everything you wanted to know
     5. you can also find all the music, concert, movie info that you've searched in the 
        log.txt file in the root directory    
