@@ -22,11 +22,11 @@ const nextShow = function () {
             let venue = `Venue: ${response.data[0].venue.name}`
             let date = `Date: ${moment(response.data[0].datetime).format("MMM Do YY")}`
 
-            console.log("\n----------------------------");
+            console.log("\n------------- CONCERT INFO ---------------");
             console.log(name.cyan);
             console.log(venue.cyan);
             console.log(date.cyan);
-            console.log("----------------------------\n");
+            console.log("------------------------------------------\n");
 
             fs.appendFile("log.txt", "\n" + name + "\n" + venue + "\n" + date + "\n----------------------------------------------", function (err) {
                 if (err) throw err;
@@ -58,7 +58,7 @@ const getMovie = function () {
             let actors = `Actors: ${response.data.Actors}`;
             let plot = `Plot: ${response.data.Plot}`;
 
-            console.log("\n----------------------------");
+            console.log("\n-------------- MOVIE INFO --------------");
             console.log(title.magenta);
             console.log(year.magenta);
             console.log(imdb.magenta);
@@ -67,7 +67,7 @@ const getMovie = function () {
             console.log(language.magenta);
             console.log(actors.magenta);
             console.log(plot.magenta);
-            console.log("----------------------------\n");
+            console.log("----------------------------------------\n");
 
             fs.appendFile("log.txt", "\n" + title + "\n" + year + "\n" + imdb + "\n" + tomatoes + "\n" + country + "\n" + language + "\n" + actors + "\n" + plot + "\n----------------------------------------------", function (err) {
                 if (err) throw err;
@@ -93,12 +93,12 @@ const getSong = function () {
             let url = `URL: ${data.tracks.items[0].external_urls.spotify}`;
             let album = `Album: ${data.tracks.items[0].album.name}`;
 
-            console.log("\n----------------------------");
+            console.log("\n------------- SONG INFO ---------------");
             console.log(artists.yellow);
             console.log(name.yellow);
             console.log(url.yellow);
             console.log(album.yellow);
-            console.log("----------------------------\n");
+            console.log("---------------------------------------\n");
 
             fs.appendFile("log.txt", "\n" + artists + "\n" + name + "\n" + url + "\n" + album + "\n----------------------------------------------", function (err) {
                 if (err) throw err;
@@ -124,12 +124,12 @@ const whatItSays = function () {
                 let url = `URL: ${data.tracks.items[0].external_urls.spotify}`;
                 let album = `Album: ${data.tracks.items[0].album.name}`;
 
-                console.log("\n----------------------------");
+                console.log("\n--------- YOU KNOW HOW I WANT IT ---------");
                 console.log(artists.rainbow);
                 console.log(name.rainbow);
                 console.log(url.rainbow);
                 console.log(album.rainbow);
-                console.log("----------------------------\n");
+                console.log("------------------------------------------\n");
 
                 fs.appendFile("log.txt", "\n" + artists + "\n" + name + "\n" + url + "\n" + album + "\n----------------------------------------------", function (err) {
                     if (err) throw err;
