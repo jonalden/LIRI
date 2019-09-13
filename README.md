@@ -1,8 +1,8 @@
 # LIRI
 
-**LIRI** is a Language Interpretation Recognition Interface, similar to SIRI but it takes in commands from to terminal. LIRI is equipped to help you find the next concert of your favorite band and details about your favorite song or movie by entering them into the command line. 
+**LIRI** is a Language Interpretation Recognition Interface, similar to SIRI but it takes in commands from the terminal. LIRI is equipped to help you find the next concert of your favorite band and details about your favorite song or movie by entering them into the command line. 
 
-Video showing in detail how Liri works: [Click Here!](https://drive.google.com/open?id=1Jam03dJYz5x2JczFaCSn5mB87ml9f1dy)
+Video showing how Liri works in detail: [Click Here!](https://drive.google.com/open?id=1Jam03dJYz5x2JczFaCSn5mB87ml9f1dy)
 
     
 
@@ -19,7 +19,7 @@ Video showing in detail how Liri works: [Click Here!](https://drive.google.com/o
     5. finally, if you want to know what Bowie's favorite song in the whole world is try:
         node liri.js do-what-it-says
 
-### LIRI uses multiplt NPMs including:
+### LIRI uses multiple NPMs including:
 
     *axios
     *dotenv
